@@ -1,1 +1,1 @@
-# pattern-recognition-lab-codes-experiments
+# Pattern Recognition Lab Codes and Experiments
